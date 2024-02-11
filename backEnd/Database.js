@@ -5,7 +5,7 @@ const dbConfig = {
   // host: process.env.host,
   host: "localhost",
   // user: process.env.user,
-  user: "user1",
+  user: "user2",
   // password: process.env.password,
   password: "wB3F*10o-0wCXEl7",
   // database: process.env.database,
